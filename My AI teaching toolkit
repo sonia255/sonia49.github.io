@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My AI Teaching Toolkit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background-color: #2c3e50;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    h2 {
+      color: #2c3e50;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+      margin-top: 40px;
+    }
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    blockquote {
+      background-color: #e8f0fe;
+      padding: 15px;
+      border-left: 5px solid #4285f4;
+      margin: 15px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>📘 My AI Teaching Toolkit</h1>
+  <p>Empowering learning with artificial intelligence</p>
+</header>
+
+<section>
+  <h2>🔗 Flashcard Deck</h2>
+  <p><a href="https://quizlet.com/join/sdKezH6bW?i=6i9w1f&x=1bqt" target="_blank">Join on Quizlet</a></p>
+
+  <h2>📝 Student Quiz</h2>
+  <p><a href="https://quizizz.com/pro/join?gc=42481092" target="_blank">Start the Quizizz Quiz</a></p>
+
+  <h2>📊 Exit Ticket Summary</h2>
+  <ul>
+    <li><strong>Understanding of Key Concepts:</strong> Students learned about concepts, detailed ideas, and how to use technology (e.g., ChatGPT).</li>
+    <li><strong>Preparedness:</strong> Most students felt ready, citing prior knowledge or lesson clarity.</li>
+    <li><strong>Suggestions:</strong> Add practical examples and written content.</li>
+  </ul>
+  <p><strong>Exit Form:</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSd53DsmWdP23WSt8OsLK4G8fsNoML4tjoiTKtoloPoc7LstGQ/viewform?usp=header" target="_blank">Google Form</a></p>
+
+  <h2>🎙️ Lesson Podcast</h2>
+  <p><a href="https://notebooklm.google.com/notebook/bac6aecf-0bf1-4efa-a068-7b8cdca74d31/audio" target="_blank">Listen Now</a></p>
+
+  <h2>🖼️ AI Image Gallery</h2>
+  <p>(Include your curated AI images here as needed)</p>
+
+  <h2>📚 Literature Mapping Summary</h2>
+  <blockquote>
+    Connected Paper AI offers an innovative way to conduct literature reviews, helping uncover links between studies — particularly useful in fields like machine learning and Alzheimer’s research.
+  </blockquote>
+
+  <h2>✍️ Reflective Note</h2>
+  <p><em>“How AI transformed my way of teaching or learning”</em></p>
+  <blockquote>
+    AI has revolutionized how I teach and learn — making it more personalized, efficient, and engaging. It gives instant answers, tailored feedback, and boosts confidence. As a teacher, I now focus more on guiding and inspiring students. The blend of human and machine intelligence fosters inclusive, dynamic education.
+  </blockquote>
+</section>
+
+</body>
+</html>
